@@ -34,3 +34,8 @@ Learning _both_ the structure and the parameters for a Bayesian Network from dat
 Several optimization techniques can be used to navigate through this insanely huge space of all possible network structures. We investigated using genetic algorithms to achieve that. In that scenario, a Bayesian Network represents an individual, who is capable of reproducing and suffer mutations. Individuals with better abilities to explain the observed data are passed to the next generation. Here, this ability to explain the data -- or "fitniess -- is the likelihood of the data.
 
 Example of such approach can be found under `geekie.ga.examples`.
+
+
+### Origins
+
+This is a fork from the code originally released at the Geekie repo at https://github.com/projetoeureka/geekie-bayes.
